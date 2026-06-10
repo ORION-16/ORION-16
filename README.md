@@ -92,12 +92,6 @@ and transforming ideas into production-ready products.
 
 ---
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ORION-16&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
